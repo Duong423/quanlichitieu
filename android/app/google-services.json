@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105627171091",
+    "project_id": "chitieu-92489",
+    "storage_bucket": "chitieu-92489.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105627171091:android:ca56779a6bc2c4623042e6",
+        "android_client_info": {
+          "package_name": "com.example.quanlichitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmHwUiWFi1pMEJM_IrRItJZzaN4Pvqeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
